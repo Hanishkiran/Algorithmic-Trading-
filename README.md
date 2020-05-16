@@ -3,7 +3,9 @@ Algorithmic Trading, Quantitative Analysis and Sentiment Analysis using Python
 
 Python codes are adapted from online sources and modified by me 
 
-What I have included:  
+---------------------------------------------------------------------------------------------------------------------------------------
+
+Included in this repository:  
 
 Technical Analysis - MACD and Bollinger Bands 
 
@@ -28,6 +30,8 @@ Lexicon based Sentiment Analysis - VADER and Textblob
 Seniment Analyzer for Commodities -  Webscrapping and VADER 
 
 Machine Learning Feature Matrix & TF IDF (Term Frequency Inverse Document Frequency) -  Naive Bayes Model Training and Prediction, Bayes Theorem
+
+---------------------------------------------------------------------------------------------------------------------------------------
 
 Note: Strategies are not meant to be used as investing advice 
 
