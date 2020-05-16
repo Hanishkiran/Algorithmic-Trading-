@@ -21,4 +21,14 @@ Strategy 4 - Intraday Resistance Breakout Strategy
 
 Magic Formula -  Value Investing by Joel Greenblatt
 
+Sentiment Analysis -  Tokkenization, Stemming, Lemmatization, Stop Words (NLP - Natural Language Processing)
 
+Lexicon based Sentiment Analysis - VADER and Textblob 
+
+Seniment Analyzer for Commodities -  Webscrapping and VADER 
+
+Machine Learning Feature Matrix & TF IDF (Term Frequency Inverse Document Frequency)
+
+Note: Strategies are not meant to be used as investing advice 
+
+To contribute further, you may reach out to me via my email:  hanishkiran@gmail.com
