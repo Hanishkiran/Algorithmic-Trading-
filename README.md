@@ -1,7 +1,7 @@
 # Algorithmic-Trading-
 Algorithmic Trading, Quantitative Analysis and Sentiment Analysis using Python 
 
-Python codes are learnt and adapted from online sources and modified by me 
+Python codes are adapted from online sources and modified by me 
 
 What I have included:  
 
@@ -27,7 +27,7 @@ Lexicon based Sentiment Analysis - VADER and Textblob
 
 Seniment Analyzer for Commodities -  Webscrapping and VADER 
 
-Machine Learning Feature Matrix & TF IDF (Term Frequency Inverse Document Frequency)
+Machine Learning Feature Matrix & TF IDF (Term Frequency Inverse Document Frequency) -  Train the Model and Predict 
 
 Note: Strategies are not meant to be used as investing advice 
 
