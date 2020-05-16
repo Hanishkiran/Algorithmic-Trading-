@@ -19,4 +19,6 @@ Strategy 3 -  Renko OBV Strategy
 
 Strategy 4 - Intraday Resistance Breakout Strategy 
 
+Magic Formula -  Value Investing by Joel Greenblatt
+
 
