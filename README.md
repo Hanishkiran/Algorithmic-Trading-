@@ -27,7 +27,7 @@ Lexicon based Sentiment Analysis - VADER and Textblob
 
 Seniment Analyzer for Commodities -  Webscrapping and VADER 
 
-Machine Learning Feature Matrix & TF IDF (Term Frequency Inverse Document Frequency) -  Train the Model and Predict 
+Machine Learning Feature Matrix & TF IDF (Term Frequency Inverse Document Frequency) -  Naive Bayes Model training and Prediction, Bayes theorem
 
 Note: Strategies are not meant to be used as investing advice 
 
