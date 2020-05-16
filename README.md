@@ -31,4 +31,4 @@ Machine Learning Feature Matrix & TF IDF (Term Frequency Inverse Document Freque
 
 Note: Strategies are not meant to be used as investing advice 
 
-To contribute further, you may reach out to me via my email:  hanishkiran@gmail.com
+To contribute further, you may reach out to me via email:  hanishkiran@gmail.com
